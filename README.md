@@ -26,3 +26,8 @@
 - tuist edit
     
     Generates and opens a temporary Xcode project that includes all the manifest files in the current directory, and the files the manifests depend on
+
+
+## Tip
+
+- Generate 시에 각 프로젝트 별 Sources 폴더내에 swift 파일이 한 개 이상 존재해야 함.
