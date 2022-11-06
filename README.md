@@ -27,6 +27,9 @@
     
     Generates and opens a temporary Xcode project that includes all the manifest files in the current directory, and the files the manifests depend on
 
+- tuist graph
+    
+    Loads your project dependencies graph and exports it.
 
 ## Tip
 
