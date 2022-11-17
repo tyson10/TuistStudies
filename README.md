@@ -34,3 +34,6 @@
 ## Tip
 
 - Generate 시에 각 프로젝트 별 Sources 폴더내에 swift 파일이 한 개 이상 존재해야 함.
+- tuist graph -f dot dot 파일 생성, VSCode 에서 파일 열고 Graphviz extension 설치 후 "CMD + shift + p" 로 Graphviz 사용함.
+
+- Generate 시에 각 프로젝트 별 Sources 폴더내에 swift 파일이 한 개 이상 존재해야 함.
